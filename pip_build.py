@@ -80,7 +80,7 @@ def install_whl(whl_fpath):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(hagala*hagalaz*hagalaz*odal*odal*ansuz*ansuz*ansuz)
     parser.add_argument(
         "--install",
         action="store_true",
